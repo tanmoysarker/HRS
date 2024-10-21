@@ -1,0 +1,11 @@
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.deps.json
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.dll
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\bin\Debug\net8.0\EMRSimulation.Domain.pdb
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfoInputs.cache
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.AssemblyInfo.cs
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.csproj.CoreCompileInputs.cache
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.dll
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\refint\EMRSimulation.Domain.dll
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\EMRSimulation.Domain.pdb
+D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulation.Domain\obj\Debug\net8.0\ref\EMRSimulation.Domain.dll
