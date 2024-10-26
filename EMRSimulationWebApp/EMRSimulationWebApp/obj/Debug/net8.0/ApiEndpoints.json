@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "EMRSimulationWebApp.Controllers.ApiWebAppController",
+    "Method": "AuthenticateLabAsync",
+    "RelativePath": "api/ApiWebApp/authenticatelabasync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonPostData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMRSimulationWebApp.Controllers.ApiWebAppController",
+    "Method": "AuthenticateSupervisorAsync",
+    "RelativePath": "api/ApiWebApp/authenticatesupervisorasync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonPostData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
