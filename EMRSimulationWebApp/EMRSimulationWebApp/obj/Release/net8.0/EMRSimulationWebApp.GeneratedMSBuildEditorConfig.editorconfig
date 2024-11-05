@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EMRSimulationWebApp
+build_property.RootNamespace = EMRSimulationWebApp
+build_property.ProjectDir = D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulationWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Master of Technology (Enterprise Systems and Business Analytics)\Term5\ITECH7415 Masters Project\EMRSimulationWebApp\EMRSimulationWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Account/EmrLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFbXJMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Account/StudentLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdHVkZW50TG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Account/SupervisorLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdXBlcnZpc29yTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Lab/_LabRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXF9MYWJSZWNvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_medicationAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfbWVkaWNhdGlvbkFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_medicationList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfbWVkaWNhdGlvbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientAddsChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEFkZHNDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientAddsChartList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEFkZHNDaGFydExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientIvFluidChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEl2Rmx1aWRDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientIvFluidChartAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEl2Rmx1aWRDaGFydEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientIvFluidChartAdminList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEl2Rmx1aWRDaGFydEFkbWluTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientIvFluidChartList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudEl2Rmx1aWRDaGFydExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationChartPrnList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25DaGFydFBybkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationChartRegularList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25DaGFydFJlZ3VsYXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationPrn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25Qcm4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationPrnAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25Qcm5BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationPrnAdminList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25Qcm5BZG1pbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationPrnList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25Qcm5MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationRegular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25SZWd1bGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationRegularAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25SZWd1bGFyQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationRegularAdminList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25SZWd1bGFyQWRtaW5MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMedicationRegularList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lZGljYXRpb25SZWd1bGFyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientMemberOrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudE1lbWJlck9yZGVyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientProgressNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudFByb2dyZXNzTm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientProgressNoteList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudFByb2dyZXNzTm90ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_patientRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfcGF0aWVudFJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_supervisorLabList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfc3VwZXJ2aXNvckxhYkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Patient/_supervisorPatientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfc3VwZXJ2aXNvclBhdGllbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master of Technology (Enterprise Systems and Business Analytics)/Term5/ITECH7415 Masters Project/EMRSimulationWebApp/EMRSimulationWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-904yuxfwoz
